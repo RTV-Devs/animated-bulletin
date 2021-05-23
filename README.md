@@ -1,1 +1,1 @@
-# animated-bulletin-
+# animated bulletin
